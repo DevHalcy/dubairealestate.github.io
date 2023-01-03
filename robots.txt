@@ -1,0 +1,135 @@
+
+
+./index.html
+	--complected
+
+	./about-us/index.html
+		--complected
+
+	./apartments-for-sale-in-dubai/index.html
+		--complected
+
+	./contact-us/index.html
+		--complected
+
+	./disclaimer/index.html
+		--complected
+
+	./duplex-for-sale-in-dubai/index.html
+		--complected
+
+	./our-communities/
+		--complected
+
+				./our-communities/index.html
+				--complected
+
+				./our-communities/al-furjan/index.html
+				--complected
+
+				./our-communities/arabian-ranches-3/index.html
+				--complected
+
+				./our-communities/business-bay/index.html
+				--complected
+
+				./our-communities/damac-hills/index.html
+				--complected
+
+				./our-communities/damac-lagoons/index.html
+				--complected
+
+				./our-communities/downtown-dubai/index.html
+				--complected
+
+				./our-communities/dubai-creek-harbour/index.html
+				--complected
+
+				./our-communities/dubai-hills-estate/index.html
+				--complected
+
+				./our-communities/dubai-investments-park/index.html
+				--complected
+
+				./our-communities/dubai-marina/index.html
+				--complected
+
+				./our-communities/emaar-beachfront/index.html
+				--complected
+
+				./our-communities/emaar-south/index.html
+				--complected
+
+				./our-communities/emaar-the-valley/index.html
+				--complected
+
+				./our-communities/emirates-living/index.html
+				--complected
+
+				./our-communities/falconcity-of-wonders/index.html
+				--complected
+
+				./our-communities/jebel-ali-village/index.html
+				--complected
+
+				./our-communities/jumeirah-village-circle/index.html
+				--complected
+
+				./our-communities/meydan-dubai/index.html
+				--complected
+
+				./our-communities/palm-jumeirah/index.html
+				--complected
+
+				./our-communities/rashid-yachts-and-marina/index.html
+				--complected
+
+				./our-communities/sobha-hartland/index.html
+				--complected
+
+				./our-communities/sobha-hartland-2/index.html
+				--complected
+
+				./our-communities/town-square-dubai/index.html
+				--complected
+
+				./our-communities/villanova/index.html
+				--complected
+
+	./penthouses-for-sale-in-dubai/index.html
+		--complected
+
+	./post-category/tips/index.html
+		--complected
+
+	./privacy-policy/index.html
+		--complected
+
+	./project/
+		--complected????????????
+
+				./project/address-residences-the-bay/index.html
+				--complected
+
+				./project/azizi-riviera/index.html
+				--complected
+
+				./project/burj-binghatti-jacob-and-co-residences/index.html
+				--complected
+
+				./project/burj-crown/index.html
+				--complected????????????
+
+	./projects/index.html
+		--complected
+
+	./studio-for-sale-in-dubai/index.html
+		--complected
+
+	./townhouses-for-sale-in-dubai/index.html
+		--complected
+
+	./villas-for-sale-in-dubai/index.html
+		--complected
+
+	

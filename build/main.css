@@ -3152,3 +3152,27 @@ footer .copyright {
 		display: none !important;
 	}
 } /*# sourceMappingURL=main.css.map */
+
+.search-change {
+	position: relative;
+	background-color: #fff;
+	padding: 1rem 1rem 0.85rem;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 0 0.9rem 0.2rem rgb(117 174 255 / 20%);
+	border-radius: 2rem;
+	display: flex;
+	justify-content: space-between;
+	gap: 1.2rem;
+	max-width: 700px;
+	align-items: center;
+	text-align: center;
+}
+
+.search-change h2 {
+	width: 100%;
+	text-align: center;
+	font-weight: 500;
+	font-size: 1.5rem;
+	color: #498bf5;
+}

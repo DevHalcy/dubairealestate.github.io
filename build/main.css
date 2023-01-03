@@ -3176,3 +3176,18 @@ footer .copyright {
 	font-size: 1.5rem;
 	color: #498bf5;
 }
+
+@media (max-width: 991px) {
+	.search {
+		flex-flow: column wrap;
+		padding: 1.5rem;
+	}
+
+	.search-change h2 {
+		width: 100%;
+		text-align: center;
+		font-weight: 500;
+		font-size: 0.7rem;
+		color: #498bf5;
+	}
+}
